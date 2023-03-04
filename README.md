@@ -1,2 +1,2 @@
-# .github
-Readme of this place
+# Evil YouTube
+Evil YouTube is an alternative YouTube that took it's name from [here](https://www.youtube.com/channel/UCKUnB5P0cdfnufPCKkGecqQ/community?lb=Ugkx9n75R0WudfYCx30efz8s9oU0euIQO-mZ). This organization is created to build a hosted for free, community-driven, open-sourced alternative video platform to YouTube. This organization will/does contain discussions, meta/architecture of the project, codes and etc.
